@@ -1,5 +1,6 @@
 ---
-subtitle: Gibson Plumbing Employee Portal
+title: GibsonPlumbing
+subtitle: Welcome to the employee portal.
 layout: layouts/base.njk
 ---
 - [SAGE Web App](https://qa.gibsonplumbing.com/GibsonQA)
