@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Gibson Plumbing
+subtitle: Welcome to the employee portal.
 layout: layouts/base.njk
 ---
 
