@@ -9,12 +9,3 @@
     @media #{$bp-wide}  { @content; }
   }
 }
-h1 {
-  // small sizes get a smaller font size
-  font-size: rem-calc(22);
-
-  // but when we are medium or higher (default is 40.063em == 641px), use default h1 size (44px)
-  @media #{$medium-up} {
-    font-size: $h1-font-size;
-  }
-}
