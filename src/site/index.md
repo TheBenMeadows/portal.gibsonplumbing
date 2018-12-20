@@ -1,7 +1,5 @@
 ---
-title: Gibson Plumbing
 title: Employee Portal
-subtitle: Welcome to the employee portal.
 layout: layouts/base.njk
 ---
 ## Below are some useful links:
