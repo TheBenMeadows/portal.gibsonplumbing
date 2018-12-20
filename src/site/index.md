@@ -7,4 +7,4 @@ layout: layouts/base.njk
 - [Outlook Web App](https://mail.gibsonplumbing.com/owa)
 - [Remote Desktop](https://control.itsupport247.net)
 - [SAGE Inventory Advisor](https://gibsonplumbing.sageinvadv.net)
-- [Wiki](https://wiki.gibsonplumbing.com) (Coming Soon)
+- [Gibson Wiki](https://wiki.gibsonplumbing.com) (Coming Soon)
