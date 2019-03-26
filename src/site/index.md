@@ -11,4 +11,4 @@ layout: layouts/base.njk
 
 [**Inventory Advisor**](https://gibsonplumbing.sageinvadv.net)
 
-[~~**Company Wiki**~~](https://wiki.gibsonplumbing.com) (Coming Soon)
+[**Company Wiki**](https://wiki.gibsonplumbing.com)
