@@ -3,7 +3,7 @@ title: Gibson Plumbing
 layout: layouts/base.njk
 ---
 ### Employee Portal
-[**SAGE Web App**](https://qa.gibsonplumbing.com/GibsonQA)
+[**SAGE Web App**](https://qa.gibsonplumbing.com)
 
 [**Outlook Web App**](https://mail.gibsonplumbing.com/owa)
 
