@@ -3,12 +3,12 @@ title: Gibson Plumbing
 layout: layouts/base.njk
 ---
 ### Employee Portal
-[**SAGE Web App**](https://qa.gibsonplumbing.com)
+[**Gibson Video App**](https://meet.gibsonplumbing.com)
 
-[**Outlook Web App**](https://mail.gibsonplumbing.com/owa)
+[**Gibson Web App**](https://qa.gibsonplumbing.com)
+
+[**Outlook Webmail**](https://mail.gibsonplumbing.com/owa)
 
 [**Remote Desktop**](https://control.itsupport247.net)
 
-[**Inventory Advisor**](https://gibsonplumbing.sageinvadv.net)
-
-[**Company Wiki**](https://wiki.gibsonplumbing.com)
+[**Gibson Wiki**](https://wiki.gibsonplumbing.com)
